@@ -1,10 +1,5 @@
 info:
-
   profile: default
-
   from: git1
-  
   test: sdfsdfsdfsdf
-
-  
 test: bbb
